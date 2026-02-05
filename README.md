@@ -7,9 +7,13 @@ Analysing menu items, variants, and add-on pricing logic from a food delivery pl
 Domain: Food-tech / E-commerce
 Tools: Excel, Power Query (M), JSON
 Focus Areas:
+
  > Nested data handling
+
  > Dynamic pricing logic
+
  > Variants & add-ons modeling
+
  > Real-world data normalization
 
 This project demonstrates how complex, real-world menu data can be transformed into clean, analysis-ready datasets.
@@ -44,37 +48,18 @@ This project explores how such menu data is structured and shows how to extract,
     > UI price ≠ backend stored price
 
 🛠 Tools & Technologies Used
+
    > Microsoft Excel
+
    > Power Query (M Language)
+
    > JSON Data Modeling
+
    > Manual validation against UI behavior
 
-📂 Project Structure
-
-swiggy-menu-data-analysis/
-│
-├── README.md
-│
-├── data/
-│   ├── items.xlsx
-│   ├── addons.xlsx
-│   └── variants.xlsx   (Work in Progress)
-│
-├── power-query/
-│   ├── item_extraction_steps.md
-│   ├── addon_extraction_steps.md
-│   └── pricing_logic_notes.md
-│
-├── screenshots/
-│   ├── power_query_flow.png
-│   ├── item_table_output.png
-│   ├── addon_table_output.png
-│   └── price_mismatch_example.png
-│
-└── insights/
-    └── business_insights.md
 
 📊 Datasets Prepared
+
 1️⃣ Items Table (items.xlsx)
 
 One row per menu item
