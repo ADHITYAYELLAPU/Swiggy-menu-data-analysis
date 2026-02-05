@@ -58,6 +58,8 @@ This project explores how such menu data is structured and shows how to extract,
    > Manual validation against UI behavior
 
 
+
+
 📊 Datasets Prepared
 
 1️⃣ Items Table (items.xlsx)
