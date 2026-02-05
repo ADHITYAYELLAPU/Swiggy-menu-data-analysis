@@ -30,11 +30,17 @@ This project explores how such menu data is structured and shows how to extract,
 🎯 Objectives
 
  ✔ Extract item-level menu data from nested structures
+ 
  ✔ Normalize add-ons and variants into separate tables
+ 
  ✔ Understand and document pricing delta logic
+ 
  ✔ Handle common real-world issues like:
+ 
     > Deeply nested Lists & Records
+    
     > Row explosion during expansion
+    
     > UI price ≠ backend stored price
 
 🛠 Tools & Technologies Used
